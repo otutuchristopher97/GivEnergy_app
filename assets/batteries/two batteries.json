@@ -1,0 +1,36 @@
+{
+"data": [
+    {
+        "serial": "GV3022G001",
+        "status": "ONLINE",
+        "last_online": "2021-07-18T01:25:18Z",
+        "last_updated": "2021-07-19T00:41:12Z",
+        "commission_date": "2021-07-13T00:00:00Z",
+        "warranty": {
+            "type": "Standard",
+            "expiry_date": "2026-07-13T00:00:00Z"
+        },
+        "values": {
+            "current": 10.8,
+            "voltage": 58.2,
+            "percentage": 90,
+        }
+    },
+    {
+        "serial": "GV3022G002",
+        "status": "OFFLINE",
+        "last_online": "2021-07-18T01:25:18Z",
+        "last_updated": "2021-07-19T00:41:12Z",
+        "commission_date": "2021-07-13T00:00:00Z",
+        "warranty": {
+            "type": "Standard",
+            "expiry_date": "2026-07-13T00:00:00Z"
+        },
+        "values": {
+            "current": 9.8,
+            "voltage": 55,
+            "percentage": 85,
+        }
+    },
+]
+}
